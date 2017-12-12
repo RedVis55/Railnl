@@ -6,8 +6,6 @@ Deze case gaat over het maken van een lijnvoering van intercitytreinen. De bedoe
 
 Deze instructies zorgen ervoor dat je een kopie van ons project bemachtigt en hem kan runnen op je pc/laptop.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Vereisten
 
 Wat je moet installeren en hoe je het moet installeren:
