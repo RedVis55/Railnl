@@ -28,6 +28,10 @@ Welke packages je moet installeren om om de code te kunnen runnen:
 * gc
 * operator (from itemgetter)
 
+### Opstarten code
+
+Om ervoor te zorgen dat alle imports in orde zijn en je elk bestand zonder errors kan laten runnen, is het als eerst zaak om het bestand main.py te runnen om de andere losse files te importeren.
+
 ## Onze code
 
 Kleine en korte introductie om als buitenstaander de grote lijnen te begrijpen.
