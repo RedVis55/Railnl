@@ -14,6 +14,20 @@ Het is een vereiste om een text Editor te installeren waar de codes in te lezen 
 
 Daarnaast is Excel een handig programma om de CSV files te openen en ze te bestuderen, zodat je weet wat er in staat om zo de juiste gegevens eruit te halen.
 
+### Packages 
+
+Welke packages je moet installeren om om de code te kunnen runnen:
+
+* networkx
+* matplotlib.pyplot
+* matplotlib.mlab
+* numpy
+* csv
+* copy
+* randint (from random)
+* gc
+* operator (from itemgetter)
+
 ## Onze code
 
 Kleine en korte introductie om als buitenstaander de grote lijnen te begrijpen.
